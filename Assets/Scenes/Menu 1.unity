@@ -1464,7 +1464,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: HEARTFELT
+  m_text: HEAR TFEL T
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 85d93faf51a0971459d5b0c28ba11218, type: 2}
   m_sharedMaterial: {fileID: -6591298228893356428, guid: 85d93faf51a0971459d5b0c28ba11218,
@@ -1501,7 +1501,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_textAlignment: 257
-  m_characterSpacing: 0
+  m_characterSpacing: -0.7
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1534,10 +1534,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -470.27347, w: -29.901447}
   m_textInfo:
     textComponent: {fileID: 928557450}
-    characterCount: 9
+    characterCount: 11
     spriteCount: 0
-    spaceCount: 0
-    wordCount: 1
+    spaceCount: 2
+    wordCount: 3
     linkCount: 0
     lineCount: 1
     pageCount: 1
